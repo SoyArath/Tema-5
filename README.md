@@ -5,7 +5,7 @@ Este proyecto muestra de forma visual y paso a paso cómo funciona el algoritmo 
 
 ---
 
-## 👨‍🏫 Información general
+##Información general:
 
 - **Materia:** Estructura de Datos  
 - **Profesor:** Kevin David Molina Gómez  
@@ -21,7 +21,7 @@ Este proyecto muestra de forma visual y paso a paso cómo funciona el algoritmo 
 
 ---
 
-## 🧠 ¿Qué hace este proyecto?
+## ¿Qué hace este proyecto?
 
 Implementa el algoritmo de ordenamiento **por selección (Selection Sort)** con una visualización interactiva de cada paso.  
 La interfaz gráfica permite observar cómo el algoritmo va eligiendo el valor mínimo y realizando intercambios hasta que el arreglo queda ordenado.
@@ -44,7 +44,7 @@ El usuario puede navegar paso a paso por el proceso utilizando el teclado:
 
 ---
 
-## 🧪 ¿Cómo ejecutar el código?
+## ¿Cómo ejecutar el código?
 
 1. Asegúrate de tener Python instalado.
 2. Instala `matplotlib` si aún no lo tienes:
